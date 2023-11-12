@@ -17,7 +17,7 @@ This workflow pulls authoritative data from senate.gov on current members in the
 ![](https://github.com/daeberly/Get-Clean-Current-Senate-Member-Committee-Info/blob/main/power_automate_flow.JPG)
 *Figure 2. PowerAutomate Workflow.*
 
-### Step 2: Final Product
+#### Step 2: Final Product
 ![](https://github.com/daeberly/Get-Clean-Current-Senate-Member-Committee-Info/blob/main/final.JPG)
 *Figure 3. Cleaned excel table.*
 
