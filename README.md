@@ -3,7 +3,7 @@
 Authoritative data source: https://www.senate.gov/general/committee_assignments/assignments.htm#
 
 ### Workflow takes ~12 seconds from start to finish 
-![](https://github.com/daeberly/real-time-location-analysis/blob/main/end_product.jpg)
+![](https://github.com/daeberly/Get-Clean-Current-Senate-Member-Committee-Info/blob/main/workflow_start_to_finish.JPG)
 *Figure 1. Overall process using PowerAutomate for data acquisition and Python for manipulation.*
 
 ## Purpose
@@ -14,11 +14,12 @@ This workflow pulls authoritative data from senate.gov on current members in the
 - (2) a python script that cleans the data into a readable excel table [run time: 0.4 seconds].
 
 #### Step 1
-![](https://github.com/daeberly/real-time-location-analysis/blob/main/end_product.jpg)
-*Figure 1. Overall process using PowerAutomate for data acquisition and Python for manipulation.*
+![](https://github.com/daeberly/Get-Clean-Current-Senate-Member-Committee-Info/blob/main/power_automate_flow.JPG)
+*Figure 2. PowerAutomate Workflow.*
 
 ### Final Product
-
+![](https://github.com/daeberly/Get-Clean-Current-Senate-Member-Committee-Info/blob/main/final.JPG)
+*Figure 3. Cleaned excel table.*
 
 ### The system requirements are to run workflow:
 - Windows "Power Automate"
